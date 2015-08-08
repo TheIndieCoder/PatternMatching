@@ -33,6 +33,6 @@ void naive(char* txt, char* pat, int loc[])
 
 int main()
 {
-	test(naive);
+	test(naive, "Naive");
 	return 0;
 }
